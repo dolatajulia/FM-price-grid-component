@@ -8,4 +8,4 @@ https://dolatajulia.github.io/FM-price-grid-component/
 
 ## Project screenshot
 
-![image](?)
+![image](project-screenshot.jpg)
